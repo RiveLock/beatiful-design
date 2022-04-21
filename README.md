@@ -18,14 +18,8 @@ github：https://github.com/dromara/hutool/
 
 1. [代码鉴赏：【Hutool工具】LazyLoader范型懒汉式单例](https://github.com/RiveLock/beatiful-design/blob/main/docs/hutool/%E4%BB%A3%E7%A0%81%E9%89%B4%E8%B5%8F%EF%BC%9A%E3%80%90Hutool%E5%B7%A5%E5%85%B7%E3%80%91LazyLoader%E8%8C%83%E5%9E%8B%E6%87%92%E6%B1%89%E5%BC%8F%E5%8D%95%E4%BE%8B.md)
 
-2. Singleton 单例统一管理
+2. [代码鉴赏：【Hutool工具】Tree结构设计.md](https://github.com/RiveLock/beatiful-design/blob/main/docs/hutool/%E4%BB%A3%E7%A0%81%E9%89%B4%E8%B5%8F%EF%BC%9A%E3%80%90Hutool%E5%B7%A5%E5%85%B7%E3%80%91LazyLoader%E8%8C%83%E5%9E%8B%E6%87%92%E6%B1%89%E5%BC%8F%E5%8D%95%E4%BE%8B.md)
 
-3. SimpleCashe 简单缓存
-
-4. aop
-
-5. tree
-
-6. 数据库
+3. 数据库
 ... 
 
