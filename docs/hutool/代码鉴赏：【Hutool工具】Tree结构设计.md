@@ -5,7 +5,7 @@
 
 ### 使用
 
-```json
+```java
 public class TreeTest {
 
 	// 模拟数据
